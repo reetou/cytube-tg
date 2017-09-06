@@ -1,0 +1,7 @@
+{
+  "room": "", // Room name (ex.: cytu.be/r/roomName - roomName is room)
+  "url": "", // url (ex.: http://synchtube.ru:9421)
+  "token": "", // your telegram bot token
+  "telegram": "", // telegram channel (ex.: 352516424)
+  "consoleMessages": false // true or false
+}
